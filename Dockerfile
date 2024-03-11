@@ -5,3 +5,6 @@ ENTRYPOINT ["java", "-jar", "Discoveryservice.jar"]
 
 
 
+
+
+
